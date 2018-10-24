@@ -44,6 +44,26 @@ p,a{
 ul{
     line-height: 1.5;
     text-align: center;
+    margin: 40px;
+}
+
+.h1-main{
+    text-align: justify;
+    padding: 20px;
+}
+
+h3{
+    padding: 20px;
+}
+.h3-header{
+    text-align: right;
+}
+
+p{
+    padding: 20px;
+    text-align: justify;
+    line-height: 1.5;
+    text-indent: 5%;
 }
 li{
     line-height: 1.5;
